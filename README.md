@@ -70,8 +70,6 @@ Somos a equipe **RAIDENS** do **SESI 192 de Aluminio**, Sao Paulo. Desenvolvemos
 
 <div align="center">
 
-![GitHub Stats](https://github-contribution-stats.vercel.app/api?username=sesiraidens)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sesiraidens&theme=dark)
 
 </div>
