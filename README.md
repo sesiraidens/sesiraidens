@@ -1,6 +1,6 @@
 <div align="center">
 
-![Raidens](https://sesiraidens.github.io/portifolio/assets/logo_color-aNRVU26Y.png)
+<img src="https://sesiraidens.github.io/portifolio/assets/logo_color-aNRVU26Y.png" width="80">
 
 # SESI RAIDENS
 
@@ -70,9 +70,13 @@ Somos a equipe **RAIDENS** do **SESI 192 de Aluminio**, Sao Paulo. Desenvolvemos
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sesiraidens&show_icons=true&theme=default&hide_border=true)
+<a href="https://github.com/sesiraidens">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sesiraidens&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sesiraidens&layout=compact&theme=default&hide_border=true)
+<a href="https://github.com/sesiraidens">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesiraidens&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
+</a>
 
 </div>
 
