@@ -1,5 +1,7 @@
 <div align="center">
 
+![Raidens](https://sesiraidens.github.io/portifolio/assets/logo_color-aNRVU26Y.png)
+
 # SESI RAIDENS
 
 **Equipe de Robotica Educacional - SESI 192 Aluminio/SP**
@@ -14,7 +16,7 @@
 
 ## Sobre
 
-Somos a equipe **RAIDENS** do **SESI 192 de Aluminio**, Sao Paulo. Desenvolvemos projetos de robotica educacional, automacao e software, participando de competicoes como a **Olimpiada Brasileira de RoboOtica (OBR)** e a **Mostra Nacional de RoboOtica (MNR)**.
+Somos a equipe **RAIDENS** do **SESI 192 de Aluminio**, Sao Paulo. Desenvolvemos projetos de robotica educacional, automacao e software, participando de competicoes como a **Olimpiada Brasileira de Robotica (OBR)** e a **Mostra Nacional de Robotica (MNR)**.
 
 ---
 
@@ -53,8 +55,8 @@ Somos a equipe **RAIDENS** do **SESI 192 de Aluminio**, Sao Paulo. Desenvolvemos
   </tr>
   <tr>
     <td colspan="2">
-      <h3><a href="https://github.com/sesiraidens/raidens_mnr">Raidens MNR</a></h3>
-      <p>Codigos em Python com OpenCV para o rob competidor da OBR. Seguimento de linha, deteccao de cores, calibracao LAB e modo de resgate. Projeto apresentado na MNR 2025.</p>
+      <h3><a href="https://github.com/sesiraidens/raidens_mnr">Raidens MNR 2025</a></h3>
+      <p>Trabalho apresentado na MNR 2025 - Codigos em Python com OpenCV para o rob competidor da OBR. Seguimento de linha, deteccao de cores, calibracao LAB e modo de resgate.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white">
