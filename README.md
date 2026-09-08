@@ -1,0 +1,87 @@
+<div align="center">
+
+# SESI RAIDENS
+
+**Equipe de Robotica Educacional - SESI 192 Aluminio/SP**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sesiraidens-181717?style=flat&logo=github&logoColor=white)](https://github.com/sesiraidens)
+[![Email](https://img.shields.io/badge/Email-sesiraidens@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sesiraidens@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-sesiraidens-39E06B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/sesiraidens)
+
+</div>
+
+---
+
+## Sobre
+
+Somos a equipe **RAIDENS** do **SESI 192 de Aluminio**, Sao Paulo. Desenvolvemos projetos de robotica educacional, automacao e software, participando de competicoes como a **Olimpiada Brasileira de RoboOtica (OBR)** e a **Mostra Nacional de RoboOtica (MNR)**.
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+</div>
+
+---
+
+## Projetos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/sesiraidens/RaidensCalendar">Raidens Calendar</a></h3>
+      <p>Calendario de eventos com interface moderna, pre-loader animado e persistencia local. Desenvolvido em HTML, CSS e JavaScript vanilla.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/sesiraidens/portifolio">Portfolio RAIDENS</a></h3>
+      <p>Site institucional da equipe com apresentacao de projetos, membros e contato. Deploy via GitHub Pages.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/sesiraidens/raidens_mnr">Raidens MNR</a></h3>
+      <p>Codigos em Python com OpenCV para o rob competidor da OBR. Seguimento de linha, deteccao de cores, calibracao LAB e modo de resgate. Projeto apresentado na MNR 2025.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sesiraidens&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sesiraidens&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sesiraidens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sesiraidens@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-sesiraidens-39E06B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sesiraidens)
+[![GitHub](https://img.shields.io/badge/GitHub-sesiraidens-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sesiraidens)
+
+</div>
